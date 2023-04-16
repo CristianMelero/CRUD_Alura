@@ -1,8 +1,19 @@
 {
   "perfil": [
     {
+      "nombre": "Cristian Meler",
+      "email": "cristianmelero@yahoo.com",
       "id": 1
+    },
+    {
+      "nombre": "Carolina Mamadera",
+      "email": "FACK@MM.COM",
+      "id": "d462d506-e91f-41b5-9691-70b6018b0800"
+    },
+    {
+      "nombre": "Juana",
+      "email": "juana@alura.com",
+      "id": "665c6af2-be49-45d6-9013-fd279a4237b9"
     }
   ]
 }
-
